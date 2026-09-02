@@ -1,4 +1,3 @@
-
 ## Table of Contents
 1. [ConfigMaps - Configuration Management](#configmaps-configuration-management)
 2. [Secrets - Sensitive Data](#secrets-sensitive-data)
